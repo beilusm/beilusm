@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beilusm
+"Spend 100 days doing something that would impress the self from 100 days ago."
 
 <!---
 beilusm/beilusm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
