@@ -1,4 +1,4 @@
-"Spending 100 days doing things that were impossible 100 days ago"
+"Do something impossible."
 
 <!---
 beilusm/beilusm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
