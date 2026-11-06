@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — 随机生成的 Material You 壁纸，点击编辑同款](assets/wallpaper/banner-c4ecbe682a62c60f.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjZDJjY2JlIiwiI2Y3ZjVlZiIsNCwtMTEsMC4zMDExNTU4MjcxMjU2Nzk1LDIsdHJ1ZSx0cnVlLDAsMjAyNjExMDdd)
+[![beilusm — 随机生成的 Material You 壁纸，点击编辑同款](assets/wallpaper/banner-04e0727680006832.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjYjBjYmQ2IiwiI2ViZjNmNiIsNCwzOCwwLjM4NzkwMjMwMTUzODY0NDYzLDEsdHJ1ZSx0cnVlLDAsMTk5NTk4NjI2M10)
 
 <p align="center">
-<b>有机圆石 · 灰雾金沙</b><br>
-每 6 小时换一张 · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjZDJjY2JlIiwiI2Y3ZjVlZiIsNCwtMTEsMC4zMDExNTU4MjcxMjU2Nzk1LDIsdHJ1ZSx0cnVlLDAsMjAyNjExMDdd">编辑 / 下载同款壁纸 ↗</a><br>
-<sub>最近生成：2026-11-06 18:45 UTC</sub>
+<b>有机圆石 · 冰川微蓝</b><br>
+每 6 小时换一张 · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjYjBjYmQ2IiwiI2ViZjNmNiIsNCwzOCwwLjM4NzkwMjMwMTUzODY0NDYzLDEsdHJ1ZSx0cnVlLDAsMTk5NTk4NjI2M10">编辑 / 下载同款壁纸 ↗</a><br>
+<sub>最近生成：2026-11-06 18:53 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
