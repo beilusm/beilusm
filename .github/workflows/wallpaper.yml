@@ -1,0 +1,54 @@
+name: Refresh profile wallpaper
+
+on:
+  schedule:
+    # UTC; approximately 04:17 / 10:17 / 16:17 / 22:17 in China.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/wallpaper.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-wallpaper
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+        with:
+          path: profile
+          ref: main
+
+      - name: Checkout wallpaper generator
+        uses: actions/checkout@v4
+        with:
+          repository: beilusm/material-you-wallpaper
+          ref: main
+          path: studio
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate wallpaper and matching share link
+        run: node studio/scripts/generate-profile.mjs --profile profile
+
+      - name: Publish updated wallpaper
+        working-directory: profile
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/wallpaper
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: refresh profile wallpaper"
+          git push origin HEAD:main
