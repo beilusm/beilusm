@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-08T13:17:45.467Z",
-  "banner": "banner-e1a458a05cba28fd.svg",
-  "wallpaper": "wallpaper-e1a458a05cba28fd.svg",
-  "shareURL": "https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2M0ZDdiMiIsIiNmMWY1ZWIiLDQsLTYsMC40MzIyODU4MzQ0MzY1NzExLDEsdHJ1ZSx0cnVlLDAsMTc2NTcxNTQwNV0",
+  "generatedAt": "2026-11-08T21:59:41.331Z",
+  "banner": "banner-b3f310eed38482a4.svg",
+  "wallpaper": "wallpaper-b3f310eed38482a4.svg",
+  "shareURL": "https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzVjNGU4IiwiI2YzZjFmOSIsNSwtMTIsMC41MTM4NjM1NjU2NDU5ODQ5LDIsdHJ1ZSx0cnVlLDAsMTM0MDYyNjAyMV0",
   "state": {
-    "artMode": "hills",
+    "artMode": "arcs",
     "targetW": 1600,
     "targetH": 640,
-    "color1": "#c4d7b2",
-    "color2": "#f1f5eb",
-    "bandCount": 4,
-    "angle": -6,
-    "curvature": 0.4322858344365711,
-    "harmonics": 1,
+    "color1": "#c5c4e8",
+    "color2": "#f3f1f9",
+    "bandCount": 5,
+    "angle": -12,
+    "curvature": 0.5138635656459849,
+    "harmonics": 2,
     "hasShadow": true,
     "useGradient": true,
     "grain": 0,
-    "seed": 1765715405
+    "seed": 1340626021
   }
 }
