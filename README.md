@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-ae10131229cc93f6.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiIzUzNzA2MCIsIiNlMmVjZTYiLDYsLTQyLDAuNDE1MjM5MTc3NjU4NDQ1MzcsMix0cnVlLHRydWUsMCwxMTQzMDI0MjAwXQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-816d6fbf85a003f4.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IyY2NjMSIsIiNlN2YyZWQiLDMsNDcsMC40MzcyNDYxODIzODYwNjEzLDIsdHJ1ZSx0cnVlLDAsMTEzNzMxMTg2NV0)
 
 <p align="center">
-<b>Minimal Waves · Pine Forest</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiIzUzNzA2MCIsIiNlMmVjZTYiLDYsLTQyLDAuNDE1MjM5MTc3NjU4NDQ1MzcsMix0cnVlLHRydWUsMCwxMTQzMDI0MjAwXQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-07 21:46 UTC</sub>
+<b>Minimal Waves · Sage</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IyY2NjMSIsIiNlN2YyZWQiLDMsNDcsMC40MzcyNDYxODIzODYwNjEzLDIsdHJ1ZSx0cnVlLDAsMTEzNzMxMTg2NV0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-08 05:56 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
