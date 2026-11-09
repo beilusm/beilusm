@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-13ee027ae1ddb6cd.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInRvcG9ncmFwaHkiLDE2MDAsNjQwLCIjZThiOGM4IiwiI2ZjZjNmNiIsNiwxNCwwLjQ5MDIzMjk1MTYwNDA0NjgsMix0cnVlLHRydWUsMCwyMDAwOTkwMDgxXQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-d051593efc532609.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2M0ZDdiMiIsIiNmMWY1ZWIiLDYsMjQsMC41ODM5MzMyOTc4NzkwMDA0LDEsdHJ1ZSx0cnVlLDAsMTYwOTgzMjkzMF0)
 
 <p align="center">
-<b>Paper Topography · Sakura Pink</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInRvcG9ncmFwaHkiLDE2MDAsNjQwLCIjZThiOGM4IiwiI2ZjZjNmNiIsNiwxNCwwLjQ5MDIzMjk1MTYwNDA0NjgsMix0cnVlLHRydWUsMCwyMDAwOTkwMDgxXQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-09 06:19 UTC</sub>
+<b>Distant Hills · Matcha</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2M0ZDdiMiIsIiNmMWY1ZWIiLDYsMjQsMC41ODM5MzMyOTc4NzkwMDA0LDEsdHJ1ZSx0cnVlLDAsMTYwOTgzMjkzMF0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-09 22:17 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
