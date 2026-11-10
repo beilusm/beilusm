@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-630de74da105f749.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2M5YTY5MCIsIiNmNmVjZTUiLDMsLTEsMC4zNzI5MTcyNTgyNDg1ODczNSwxLHRydWUsdHJ1ZSwwLDk1NDgwNDk1N10)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-bbed49b839f597cb.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzRhNmI4MiIsIiNlMWVjZjQiLDYsLTU1LDAuNDg0NTY4NTUwODQyNDEyMzUsMix0cnVlLHRydWUsMCw4MzA2MjY2MTZd)
 
 <p align="center">
-<b>Minimal Waves · Clay</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2M5YTY5MCIsIiNmNmVjZTUiLDMsLTEsMC4zNzI5MTcyNTgyNDg1ODczNSwxLHRydWUsdHJ1ZSwwLDk1NDgwNDk1N10">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-10 07:12 UTC</sub>
+<b>Distant Hills · Deep Ocean</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzRhNmI4MiIsIiNlMWVjZjQiLDYsLTU1LDAuNDg0NTY4NTUwODQyNDEyMzUsMix0cnVlLHRydWUsMCw4MzA2MjY2MTZd">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-10 19:41 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
