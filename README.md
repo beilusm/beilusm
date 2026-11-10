@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-d051593efc532609.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2M0ZDdiMiIsIiNmMWY1ZWIiLDYsMjQsMC41ODM5MzMyOTc4NzkwMDA0LDEsdHJ1ZSx0cnVlLDAsMTYwOTgzMjkzMF0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-630de74da105f749.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2M5YTY5MCIsIiNmNmVjZTUiLDMsLTEsMC4zNzI5MTcyNTgyNDg1ODczNSwxLHRydWUsdHJ1ZSwwLDk1NDgwNDk1N10)
 
 <p align="center">
-<b>Distant Hills · Matcha</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2M0ZDdiMiIsIiNmMWY1ZWIiLDYsMjQsMC41ODM5MzMyOTc4NzkwMDA0LDEsdHJ1ZSx0cnVlLDAsMTYwOTgzMjkzMF0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-09 22:17 UTC</sub>
+<b>Minimal Waves · Clay</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2M5YTY5MCIsIiNmNmVjZTUiLDMsLTEsMC4zNzI5MTcyNTgyNDg1ODczNSwxLHRydWUsdHJ1ZSwwLDk1NDgwNDk1N10">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-10 07:12 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
