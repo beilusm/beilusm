@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-4aafdf89d6b0b60e.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjNTM3MDYwIiwiI2UyZWNlNiIsNSw0NSwwLjYyMjUzODg4NzY4MzgwNCwxLHRydWUsdHJ1ZSwwLDc0NTc5MDE5XQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-c79fb45260c312e5.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNSwtNTIsMC41ODgzNzM4NDY2NDMwMjEyLDIsdHJ1ZSx0cnVlLDAsMTUwNzY3MzE4OV0)
 
 <p align="center">
-<b>Organic Pebbles · Pine Forest</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjNTM3MDYwIiwiI2UyZWNlNiIsNSw0NSwwLjYyMjUzODg4NzY4MzgwNCwxLHRydWUsdHJ1ZSwwLDc0NTc5MDE5XQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-11 06:08 UTC</sub>
+<b>Sunrise Arcs · Clay</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNSwtNTIsMC41ODgzNzM4NDY2NDMwMjEyLDIsdHJ1ZSx0cnVlLDAsMTUwNzY3MzE4OV0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-11 14:14 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
