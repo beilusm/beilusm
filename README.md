@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-c79fb45260c312e5.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNSwtNTIsMC41ODgzNzM4NDY2NDMwMjEyLDIsdHJ1ZSx0cnVlLDAsMTUwNzY3MzE4OV0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-b44b4b86947d60b6.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzUzNzA2MCIsIiNlMmVjZTYiLDUsLTQyLDAuMzgwNDc5NzQ1MjIyNzAyNCwyLHRydWUsdHJ1ZSwwLDE4MTMxODk0ODJd)
 
 <p align="center">
-<b>Sunrise Arcs · Clay</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNSwtNTIsMC41ODgzNzM4NDY2NDMwMjEyLDIsdHJ1ZSx0cnVlLDAsMTUwNzY3MzE4OV0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-11 14:14 UTC</sub>
+<b>Distant Hills · Pine Forest</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzUzNzA2MCIsIiNlMmVjZTYiLDUsLTQyLDAuMzgwNDc5NzQ1MjIyNzAyNCwyLHRydWUsdHJ1ZSwwLDE4MTMxODk0ODJd">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-12 00:38 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
