@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-a462d13c8e813729.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNiwtMTUsMC40NjgyNzcxMjgxMDQzNzg2LDIsdHJ1ZSx0cnVlLDAsODAyMzY3NDEyXQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-3bf4f008e0e6ffec.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzJjMzMzOCIsIiMxOTFkMjEiLDMsMjUsMC41MjY4NDk2ODIxODg0NTI5LDEsdHJ1ZSx0cnVlLDAsNzY3MDEzMTU1XQ)
 
 <p align="center">
-<b>Sunrise Arcs · Clay</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsNiwtMTUsMC40NjgyNzcxMjgxMDQzNzg2LDIsdHJ1ZSx0cnVlLDAsODAyMzY3NDEyXQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-12 15:07 UTC</sub>
+<b>Distant Hills · Slate</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzJjMzMzOCIsIiMxOTFkMjEiLDMsMjUsMC41MjY4NDk2ODIxODg0NTI5LDEsdHJ1ZSx0cnVlLDAsNzY3MDEzMTU1XQ">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-12 23:35 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
