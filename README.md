@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-5458f957075876b2.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInRvcG9ncmFwaHkiLDE2MDAsNjQwLCIjZDJjY2JlIiwiI2Y3ZjVlZiIsNCwyMywwLjMzODk2NjEyODczMjA0NjIzLDEsdHJ1ZSx0cnVlLDAsMTYwNDY0ODM1NV0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-536b32d3d3d2aab8.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzRkN2IyIiwiI2YxZjVlYiIsMywzNSwwLjU1MDMzMTk4ODgxNDU5NjEsMix0cnVlLHRydWUsMCwxMDA0NDk3OTNd)
 
 <p align="center">
-<b>Paper Topography · Golden Mist</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInRvcG9ncmFwaHkiLDE2MDAsNjQwLCIjZDJjY2JlIiwiI2Y3ZjVlZiIsNCwyMywwLjMzODk2NjEyODczMjA0NjIzLDEsdHJ1ZSx0cnVlLDAsMTYwNDY0ODM1NV0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-14 22:20 UTC</sub>
+<b>Sunrise Arcs · Matcha</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzRkN2IyIiwiI2YxZjVlYiIsMywzNSwwLjU1MDMzMTk4ODgxNDU5NjEsMix0cnVlLHRydWUsMCwxMDA0NDk3OTNd">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-15 06:22 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
