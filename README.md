@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-6c7a8c5f062b6d48.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYjBjYmQ2IiwiI2ViZjNmNiIsNCwtMTYsMC41NTQyNzExMTg5NTIyMTM4LDEsdHJ1ZSx0cnVlLDAsMTY3NzcwMjczMl0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-8b82bf322c56f675.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYjJjY2MxIiwiI2U3ZjJlZCIsMywtMTYsMC41MDgwOTY2NjYzMzg5NDM2LDIsdHJ1ZSx0cnVlLDAsMTMyODg0MzIxXQ)
 
 <p align="center">
-<b>Sunrise Arcs · Glacier Blue</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYjBjYmQ2IiwiI2ViZjNmNiIsNCwtMTYsMC41NTQyNzExMTg5NTIyMTM4LDEsdHJ1ZSx0cnVlLDAsMTY3NzcwMjczMl0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-16 06:21 UTC</sub>
+<b>Sunrise Arcs · Sage</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYjJjY2MxIiwiI2U3ZjJlZCIsMywtMTYsMC41MDgwOTY2NjYzMzg5NDM2LDIsdHJ1ZSx0cnVlLDAsMTMyODg0MzIxXQ">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-16 21:58 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 

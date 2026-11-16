@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="640" viewBox="0 0 1600 640">
+<title>beilusm — Do something impossible.</title>
+<desc>A randomly generated Material You wallpaper. Click to edit this artwork.</desc>
+<defs><filter id="shadow-0" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="-430.415" y1="672.8158" x2="2030.415" y2="-32.8158"><stop offset="0" stop-color="#e3efea"/><stop offset="1" stop-color="#d0e2da"/></linearGradient>
+<filter id="shadow-1" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="-430.415" y1="672.8158" x2="2030.415" y2="-32.8158"><stop offset="0" stop-color="#d6e6df"/><stop offset="1" stop-color="#c3d8cf"/></linearGradient>
+<filter id="shadow-2" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="-430.415" y1="672.8158" x2="2030.415" y2="-32.8158"><stop offset="0" stop-color="#c9dcd4"/><stop offset="1" stop-color="#b6cfc4"/></linearGradient>
+<filter id="shadow-3" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="-430.415" y1="672.8158" x2="2030.415" y2="-32.8158"><stop offset="0" stop-color="#bcd3c9"/><stop offset="1" stop-color="#b2ccc1"/></linearGradient></defs>
+<g style="isolation:isolate"><rect width="1600" height="640" fill="#e7f2ed"/>
+<path d="M1647.5525 665.4687 C1647.5525 1017.1081 1507.8643 1354.3453 1259.2177 1602.992 C1010.571 1851.6386 673.3338 1991.3269 321.6943 1991.3269 C-29.9451 1991.3269 -367.1823 1851.6386 -615.829 1602.992 C-864.4756 1354.3453 -1004.1639 1017.1081 -1004.1639 665.4687 C-1004.1639 313.8292 -864.4756 -23.408 -615.829 -272.0547 C-367.1823 -520.7013 -29.9451 -660.3895 321.6943 -660.3895 C673.3338 -660.3895 1010.571 -520.7013 1259.2177 -272.0547 C1507.8643 -23.408 1647.5525 313.8292 1647.5525 665.4687 Z" fill="url(#gradient-0)" filter="url(#shadow-0)"/>
+<path d="M1101.5335 665.4687 C1101.5335 892.0603 1011.5203 1109.3714 851.2958 1269.5959 C691.0713 1429.8204 473.7602 1519.8336 247.1685 1519.8336 C20.5768 1519.8336 -196.7342 1429.8204 -356.9587 1269.5959 C-517.1832 1109.3714 -607.1964 892.0603 -607.1964 665.4687 C-607.1964 438.877 -517.1832 221.5659 -356.9587 61.3414 C-196.7342 -98.8831 20.5768 -188.8963 247.1685 -188.8963 C473.7602 -188.8963 691.0713 -98.8831 851.2958 61.3414 C1011.5203 221.5659 1101.5335 438.877 1101.5335 665.4687 Z" fill="url(#gradient-1)" filter="url(#shadow-1)"/>
+<path d="M749.6862 665.4687 C749.6862 811.4813 691.6829 951.5135 588.4365 1054.76 C485.19 1158.0065 345.1577 1216.0098 199.1451 1216.0098 C53.1325 1216.0098 -86.8998 1158.0065 -190.1463 1054.76 C-293.3928 951.5135 -351.396 811.4813 -351.396 665.4687 C-351.396 519.4561 -293.3928 379.4238 -190.1463 276.1773 C-86.8998 172.9308 53.1325 114.9275 199.1451 114.9275 C345.1577 114.9275 485.19 172.9308 588.4365 276.1773 C691.6829 379.4238 749.6862 519.4561 749.6862 665.4687 Z" fill="url(#gradient-2)" filter="url(#shadow-2)"/>
+<path d="M522.9607 665.4687 C522.9607 759.5572 485.5841 849.7921 419.0535 916.3227 C352.5229 982.8533 262.288 1020.2299 168.1995 1020.2299 C74.1109 1020.2299 -16.124 982.8533 -82.6546 916.3227 C-149.1852 849.7921 -186.5617 759.5572 -186.5617 665.4687 C-186.5617 571.3801 -149.1852 481.1452 -82.6546 414.6146 C-16.124 348.084 74.1109 310.7075 168.1995 310.7075 C262.288 310.7075 352.5229 348.084 419.0535 414.6146 C485.5841 481.1452 522.9607 571.3801 522.9607 665.4687 Z" fill="url(#gradient-3)" filter="url(#shadow-3)"/></g>
+<defs>
+<linearGradient id="profile-shade"><stop stop-color="#091712" stop-opacity=".86"/><stop offset=".65" stop-color="#091712" stop-opacity=".50"/><stop offset="1" stop-color="#091712" stop-opacity=".06"/></linearGradient>
+</defs>
+<rect width="1600" height="640" fill="url(#profile-shade)"/>
+<g fill="#f1f8f4" font-family="Arial, Helvetica, sans-serif">
+  <rect x="88" y="100" width="10" height="10" rx="5" fill="#b2e6c8"/>
+  <text x="116" y="111" font-size="18" letter-spacing="4">A LITTLE RANDOM. ALWAYS ME.</text>
+  <text x="82" y="306" font-size="112" font-weight="700" letter-spacing="-5">beilusm</text>
+  <text x="88" y="371" font-size="32" fill="#e1eee7">Do something impossible.</text>
+  <path d="M88 458H152" stroke="#b2e6c8" stroke-width="3"/>
+  <text x="88" y="516" font-size="19" letter-spacing="2">MATERIAL YOU / GENERATIVE WALLPAPER</text>
+  <text x="88" y="550" font-size="18" fill="#d3e5db">A new canvas every 6 hours. Click to make it yours.</text>
+  <circle cx="1488" cy="528" r="36" fill="#eff8f2" fill-opacity=".92"/>
+  <path d="M1474 542L1500 516M1474 516H1500V542" fill="none" stroke="#1b3529" stroke-width="3"/>
+</g>
+</svg>
