@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-140d08206faedadd.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiI2QyY2NiZSIsIiNmN2Y1ZWYiLDQsNDIsMC41MjQ2MDIyMDMxODcxNjIyLDEsdHJ1ZSx0cnVlLDAsMTU0ODA0NTIzMl0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-223c2fc557b9c17f.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzVjNGU4IiwiI2YzZjFmOSIsNiwtNDIsMC4zNjMwMjM3MTczNDEwMzUzMywxLHRydWUsdHJ1ZSwwLDQ1NTkyMjI5OF0)
 
 <p align="center">
-<b>Layered Bloom · Golden Mist</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiI2QyY2NiZSIsIiNmN2Y1ZWYiLDQsNDIsMC41MjQ2MDIyMDMxODcxNjIyLDEsdHJ1ZSx0cnVlLDAsMTU0ODA0NTIzMl0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-19 20:30 UTC</sub>
+<b>Sunrise Arcs · Lavender</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjYzVjNGU4IiwiI2YzZjFmOSIsNiwtNDIsMC4zNjMwMjM3MTczNDEwMzUzMywxLHRydWUsdHJ1ZSwwLDQ1NTkyMjI5OF0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-20 07:08 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
