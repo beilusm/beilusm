@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-ba5d63c755b79ecc.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiIzRhNmI4MiIsIiNlMWVjZjQiLDMsLTUyLDAuMzQ4OTA1MzQxOTMxNTMwNTUsMSx0cnVlLHRydWUsMCwyMDkxNjIyNTQ5XQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-6bab3ad618cde54a.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw5LDAuMzg1Njg3MDI3ODM0OTk1NjQsMix0cnVlLHRydWUsMCwxNjA1NDQ4ODA4XQ)
 
 <p align="center">
-<b>Layered Bloom · Deep Ocean</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiIzRhNmI4MiIsIiNlMWVjZjQiLDMsLTUyLDAuMzQ4OTA1MzQxOTMxNTMwNTUsMSx0cnVlLHRydWUsMCwyMDkxNjIyNTQ5XQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-21 19:10 UTC</sub>
+<b>Organic Pebbles · Midnight Green</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw5LDAuMzg1Njg3MDI3ODM0OTk1NjQsMix0cnVlLHRydWUsMCwxNjA1NDQ4ODA4XQ">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-22 06:41 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
