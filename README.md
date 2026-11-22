@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-6bab3ad618cde54a.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw5LDAuMzg1Njg3MDI3ODM0OTk1NjQsMix0cnVlLHRydWUsMCwxNjA1NDQ4ODA4XQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-37ba02b39ff8e07c.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2U4YjhjOCIsIiNmY2YzZjYiLDUsLTQ3LDAuNDMwNDE3OTA5MjQ1Mzk1OSwyLHRydWUsdHJ1ZSwwLDQ4MjE0OTkwNF0)
 
 <p align="center">
-<b>Organic Pebbles · Midnight Green</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw5LDAuMzg1Njg3MDI3ODM0OTk1NjQsMix0cnVlLHRydWUsMCwxNjA1NDQ4ODA4XQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-22 06:41 UTC</sub>
+<b>Distant Hills · Sakura Pink</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiI2U4YjhjOCIsIiNmY2YzZjYiLDUsLTQ3LDAuNDMwNDE3OTA5MjQ1Mzk1OSwyLHRydWUsdHJ1ZSwwLDQ4MjE0OTkwNF0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-22 19:32 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
