@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="640" viewBox="0 0 1600 640">
+<title>beilusm — Do something impossible.</title>
+<desc>A randomly generated Material You wallpaper. Click to edit this artwork.</desc>
+<defs><linearGradient id="background" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#131715"/><stop offset="1" stop-color="#151917"/></linearGradient>
+<filter id="shadow-0" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#131715"/><stop offset="1" stop-color="#181d1b"/></linearGradient>
+<filter id="shadow-1" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#151917"/><stop offset="1" stop-color="#1a201d"/></linearGradient>
+<filter id="shadow-2" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#171c19"/><stop offset="1" stop-color="#1d2320"/></linearGradient>
+<filter id="shadow-3" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#191f1c"/><stop offset="1" stop-color="#1f2622"/></linearGradient>
+<filter id="shadow-4" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#1b211e"/><stop offset="1" stop-color="#212925"/></linearGradient>
+<filter id="shadow-5" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-5" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#1e2421"/><stop offset="1" stop-color="#232b27"/></linearGradient>
+<filter id="shadow-6" filterUnits="userSpaceOnUse" x="-62" y="-62" width="1724" height="764" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="-3.84" stdDeviation="9.6" flood-color="#101a14" flood-opacity="0.16"/></filter>
+<linearGradient id="gradient-6" gradientUnits="userSpaceOnUse" x1="-89.1627" y1="-600.7549" x2="1689.1627" y2="1240.7549"><stop offset="0" stop-color="#202724"/><stop offset="1" stop-color="#232b27"/></linearGradient></defs>
+<g style="isolation:isolate"><rect width="1600" height="640" fill="url(#background)"/>
+<path d="M2359.7047 661.6913 C2359.7047 984.1381 2231.6132 1293.3783 2003.6089 1521.3826 C1775.6046 1749.3869 1466.3643 1877.4784 1143.9176 1877.4784 C821.4708 1877.4784 512.2305 1749.3869 284.2262 1521.3826 C56.2219 1293.3783 -71.8696 984.1381 -71.8696 661.6913 C-71.8696 339.2445 56.2219 30.0043 284.2262 -198 C512.2305 -426.0044 821.4708 -554.0958 1143.9176 -554.0958 C1466.3643 -554.0958 1775.6046 -426.0044 2003.6089 -198 C2231.6132 30.0043 2359.7047 339.2445 2359.7047 661.6913 Z" fill="url(#gradient-0)" filter="url(#shadow-0)"/>
+<path d="M2145.0808 661.6913 C2145.0808 913.6344 2044.9968 1155.2586 1866.8461 1333.4094 C1688.6954 1511.5601 1447.0712 1611.6441 1195.128 1611.6441 C943.1848 1611.6441 701.5606 1511.5601 523.4099 1333.4094 C345.2592 1155.2586 245.1752 913.6344 245.1752 661.6913 C245.1752 409.7481 345.2592 168.1239 523.4099 -10.0268 C701.5606 -188.1775 943.1848 -288.2616 1195.128 -288.2616 C1447.0712 -288.2616 1688.6954 -188.1775 1866.8461 -10.0268 C2044.9968 168.1239 2145.0808 409.7481 2145.0808 661.6913 Z" fill="url(#gradient-1)" filter="url(#shadow-1)"/>
+<path d="M1977.3849 661.6913 C1977.3849 858.5466 1899.1845 1047.3392 1759.9868 1186.5369 C1620.7891 1325.7346 1431.9965 1403.935 1235.1412 1403.935 C1038.2859 1403.935 849.4933 1325.7346 710.2956 1186.5369 C571.0979 1047.3392 492.8974 858.5466 492.8974 661.6913 C492.8974 464.836 571.0979 276.0434 710.2956 136.8457 C849.4933 -2.352 1038.2859 -80.5525 1235.1412 -80.5525 C1431.9965 -80.5525 1620.7891 -2.352 1759.9868 136.8457 C1899.1845 276.0434 1977.3849 464.836 1977.3849 661.6913 Z" fill="url(#gradient-2)" filter="url(#shadow-2)"/>
+<path d="M1846.3561 661.6913 C1846.3561 815.5037 1785.2543 963.0165 1676.4924 1071.7783 C1567.7306 1180.5402 1420.2179 1241.6419 1266.4054 1241.6419 C1112.5929 1241.6419 965.0802 1180.5402 856.3184 1071.7783 C747.5565 963.0165 686.4547 815.5037 686.4547 661.6913 C686.4547 507.8788 747.5565 360.3661 856.3184 251.6042 C965.0802 142.8424 1112.5929 81.7406 1266.4054 81.7406 C1420.2179 81.7406 1567.7306 142.8424 1676.4924 251.6042 C1785.2543 360.3661 1846.3561 507.8788 1846.3561 661.6913 Z" fill="url(#gradient-3)" filter="url(#shadow-3)"/>
+<path d="M1743.9769 661.6913 C1743.9769 781.8723 1696.2352 897.1311 1611.2543 982.112 C1526.2735 1067.0928 1411.0147 1114.8346 1290.8336 1114.8346 C1170.6526 1114.8346 1055.3938 1067.0928 970.4129 982.112 C885.4321 897.1311 837.6904 781.8723 837.6904 661.6913 C837.6904 541.5102 885.4321 426.2514 970.4129 341.2706 C1055.3938 256.2897 1170.6526 208.548 1290.8336 208.548 C1411.0147 208.548 1526.2735 256.2897 1611.2543 341.2706 C1696.2352 426.2514 1743.9769 541.5102 1743.9769 661.6913 Z" fill="url(#gradient-4)" filter="url(#shadow-4)"/>
+<path d="M1663.9832 661.6913 C1663.9832 755.5945 1626.6803 845.6517 1560.2807 912.0513 C1493.881 978.451 1403.8238 1015.7539 1309.9206 1015.7539 C1216.0174 1015.7539 1125.9601 978.451 1059.5605 912.0513 C993.1609 845.6517 955.858 755.5945 955.858 661.6913 C955.858 567.788 993.1609 477.7308 1059.5605 411.3312 C1125.9601 344.9316 1216.0174 307.6287 1309.9206 307.6287 C1403.8238 307.6287 1493.881 344.9316 1560.2807 411.3312 C1626.6803 477.7308 1663.9832 567.788 1663.9832 661.6913 Z" fill="url(#gradient-5)" filter="url(#shadow-5)"/>
+<path d="M1601.4803 661.6913 C1601.4803 735.0624 1572.3337 805.4284 1520.4525 857.3096 C1468.5713 909.1908 1398.2053 938.3374 1324.8341 938.3374 C1251.463 938.3374 1181.097 909.1908 1129.2158 857.3096 C1077.3346 805.4284 1048.188 735.0624 1048.188 661.6913 C1048.188 588.3202 1077.3346 517.9541 1129.2158 466.0729 C1181.097 414.1917 1251.463 385.0452 1324.8341 385.0452 C1398.2053 385.0452 1468.5713 414.1917 1520.4525 466.0729 C1572.3337 517.9541 1601.4803 588.3202 1601.4803 661.6913 Z" fill="url(#gradient-6)" filter="url(#shadow-6)"/></g>
+<defs>
+<linearGradient id="profile-shade"><stop stop-color="#091712" stop-opacity=".86"/><stop offset=".65" stop-color="#091712" stop-opacity=".50"/><stop offset="1" stop-color="#091712" stop-opacity=".06"/></linearGradient>
+</defs>
+<rect width="1600" height="640" fill="url(#profile-shade)"/>
+<g fill="#f1f8f4" font-family="Arial, Helvetica, sans-serif">
+  <rect x="88" y="100" width="10" height="10" rx="5" fill="#b2e6c8"/>
+  <text x="116" y="111" font-size="18" letter-spacing="4">A LITTLE RANDOM. ALWAYS ME.</text>
+  <text x="82" y="306" font-size="112" font-weight="700" letter-spacing="-5">beilusm</text>
+  <text x="88" y="371" font-size="32" fill="#e1eee7">Do something impossible.</text>
+  <path d="M88 458H152" stroke="#b2e6c8" stroke-width="3"/>
+  <text x="88" y="516" font-size="19" letter-spacing="2">MATERIAL YOU / GENERATIVE WALLPAPER</text>
+  <text x="88" y="550" font-size="18" fill="#d3e5db">A new canvas every 6 hours. Click to make it yours.</text>
+  <circle cx="1488" cy="528" r="36" fill="#eff8f2" fill-opacity=".92"/>
+  <path d="M1474 542L1500 516M1474 516H1500V542" fill="none" stroke="#1b3529" stroke-width="3"/>
+</g>
+</svg>

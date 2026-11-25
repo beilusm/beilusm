@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-17cd949295eb1ee9.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiIzIzMmIyNyIsIiMxMzE3MTUiLDQsMTIsMC41MjE4NzM5ODM1MDUwNjQ1LDEsdHJ1ZSx0cnVlLDAsMTM5ODQ2MTI5MV0)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-89eaa2a59b1d13a7.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw0NiwwLjY0MTUxNzE0ODI5ODY5MywyLHRydWUsdHJ1ZSwwLDg0MjkwMTQ4Ml0)
 
 <p align="center">
-<b>Minimal Waves · Midnight Green</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiIzIzMmIyNyIsIiMxMzE3MTUiLDQsMTIsMC41MjE4NzM5ODM1MDUwNjQ1LDEsdHJ1ZSx0cnVlLDAsMTM5ODQ2MTI5MV0">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-25 08:25 UTC</sub>
+<b>Sunrise Arcs · Midnight Green</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImFyY3MiLDE2MDAsNjQwLCIjMjMyYjI3IiwiIzEzMTcxNSIsNiw0NiwwLjY0MTUxNzE0ODI5ODY5MywyLHRydWUsdHJ1ZSwwLDg0MjkwMTQ4Ml0">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-25 21:38 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
