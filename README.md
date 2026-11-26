@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-b37733a2ffae99ae.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiI2QyY2NiZSIsIiNmN2Y1ZWYiLDYsMywwLjQ4MTIwODQ0MzExMTkzNDE3LDIsdHJ1ZSx0cnVlLDAsNDMxOTQzNDMzXQ)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-babb4a24f6eea8ee.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IwY2JkNiIsIiNlYmYzZjYiLDQsMzksMC40NTI1MDQ0OTMwODg5MzEyNiwxLHRydWUsdHJ1ZSwwLDEzMjg0OTg3MDRd)
 
 <p align="center">
-<b>Layered Bloom · Golden Mist</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiI2QyY2NiZSIsIiNmN2Y1ZWYiLDYsMywwLjQ4MTIwODQ0MzExMTkzNDE3LDIsdHJ1ZSx0cnVlLDAsNDMxOTQzNDMzXQ">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-26 08:10 UTC</sub>
+<b>Minimal Waves · Glacier Blue</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IwY2JkNiIsIiNlYmYzZjYiLDQsMzksMC40NTI1MDQ0OTMwODg5MzEyNiwxLHRydWUsdHJ1ZSwwLDEzMjg0OTg3MDRd">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-26 21:27 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
