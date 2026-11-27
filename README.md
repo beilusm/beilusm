@@ -1,10 +1,10 @@
 <!-- WALLPAPER:START -->
-[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-babb4a24f6eea8ee.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IwY2JkNiIsIiNlYmYzZjYiLDQsMzksMC40NTI1MDQ0OTMwODg5MzEyNiwxLHRydWUsdHJ1ZSwwLDEzMjg0OTg3MDRd)
+[![beilusm — a randomly generated Material You wallpaper. Click to edit.](assets/wallpaper/banner-5901ce8e3917600c.svg)](https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzIzMmIyNyIsIiMxMzE3MTUiLDQsMzYsMC41OTgyOTc2OTc2OTk5MDU5LDEsdHJ1ZSx0cnVlLDAsMTA4MDgxMDAyXQ)
 
 <p align="center">
-<b>Minimal Waves · Glacier Blue</b><br>
-A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsIndhdmVzIiwxNjAwLDY0MCwiI2IwY2JkNiIsIiNlYmYzZjYiLDQsMzksMC40NTI1MDQ0OTMwODg5MzEyNiwxLHRydWUsdHJ1ZSwwLDEzMjg0OTg3MDRd">Edit / download this wallpaper ↗</a><br>
-<sub>Last generated: 2026-11-26 21:27 UTC</sub>
+<b>Distant Hills · Midnight Green</b><br>
+A new wallpaper every 6 hours · <a href="https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImhpbGxzIiwxNjAwLDY0MCwiIzIzMmIyNyIsIiMxMzE3MTUiLDQsMzYsMC41OTgyOTc2OTc2OTk5MDU5LDEsdHJ1ZSx0cnVlLDAsMTA4MDgxMDAyXQ">Edit / download this wallpaper ↗</a><br>
+<sub>Last generated: 2026-11-27 08:21 UTC</sub>
 </p>
 <!-- WALLPAPER:END -->
 
