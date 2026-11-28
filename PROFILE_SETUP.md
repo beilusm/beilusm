@@ -1,14 +1,21 @@
-# 随机壁纸维护
+# Material 3 Expressive 动态主页维护
 
-主页横幅复用 [Material You 壁纸工坊](https://github.com/beilusm/material-you-wallpaper) 的几何生成、SVG 导出和作品分享格式，不依赖额外后端、API Key 或仓库间写入令牌。
+主页复用 [Material You 壁纸工坊](https://github.com/beilusm/material-you-wallpaper) 的几何生成、Monet Expressive 色彩推导、WCAG 对比度校准、SVG 导出和作品分享格式，不依赖额外后端、API Key 或跨仓库写入令牌。
 
 ## 自动刷新
 
 `.github/workflows/wallpaper.yml` 每 6 小时运行，约北京时间 04:17、10:17、16:17、22:17。GitHub 的定时任务可能延迟；公开仓库长时间没有活动时，定时任务也可能被停用，可在 Actions 页面重新启用。也可选中 **Refresh profile wallpaper → Run workflow** 手动换图。
 
-工作流只使用本仓库的 `GITHUB_TOKEN` 写入本仓库，读取公开的壁纸仓库。先将壁纸仓库的 `scripts/generate-profile.mjs` 推送到 `main`，再发布本仓库工作流。
+工作流只使用本仓库的 `GITHUB_TOKEN` 写入本仓库，读取公开的壁纸仓库。修改壁纸仓库的 `scripts/generate-profile.mjs` 后先推送至壁纸仓库 `main`，随后工作流即会自动采用新版渲染。
 
-每次提交生成一张 SVG 横幅、一张不带文字的原始 SVG 壁纸及 `assets/wallpaper/current.json` 参数记录；旧的生成文件会从当前目录移除，Git 历史仍保留。图片文件名随内容变化，以减少图片缓存旧图。图片及文字链接打开完全相同的造型、颜色、尺寸和种子；横幅上的文字和暗色遮罩仅用于主页，不属于导出的原始作品。为支持无浏览器的生成，随机作品不启用颗粒纹理。
+每次生成均按当期随机壁纸的色相动态派生浅色与深色两套 Material 3 Expressive 配色，输出：
+
+- `banner-<hash>.svg` / `banner-light-<hash>.svg`：Bento 风格顶部自我介绍与无遮挡生成式壁纸橱窗
+- `work-*-{dark,light}-<hash>.svg`：三张连通圆角（Connected Card Group）的代表项目卡片
+- `toolkit-{dark,light}-<hash>.svg`：技术栈胶囊与座右铭横条
+- `wallpaper-<hash>.svg`：`1600 × 640` 原始无文字壁纸及 `current.json` 参数记录
+
+旧一轮生成的哈希 SVG 会自动从工作区清理，手动放入 `assets/wallpaper/` 的其他文件不受影响。
 
 ## 本地换图
 
@@ -21,8 +28,7 @@ node /home/beilusm233/Documents/material-you-wallpaper/scripts/generate-profile.
 
 附加 `--seed 42` 可以复现同一作品。提交 `README.md` 和 `assets/wallpaper/` 后生效。
 
-## 修改介绍
+## 修改介绍与项目
 
-自由修改 `README.md` 中 `WALLPAPER:START` 和 `WALLPAPER:END` 注释之外的内容。任务仅替换两条注释之间的自动生成区域。
-
-字体、标题和横幅排版在壁纸仓库的 `scripts/generate-profile.mjs` 中调整。首次因设置限制写入失败时，检查本仓库 Actions 的工作流令牌是否允许写入，以及 `main` 是否受分支保护规则限制。
+- `README.md` 中 `WALLPAPER:START`..`WALLPAPER:END` 放置顶部 Bento 横幅，`MONET:START`..`MONET:END` 放置随壁纸配色联动的精选项目与技术栈卡片；注释之外可自由增删自定义内容。
+- 卡片文案、形状（Cookie / Clover / Sunny Starburst）与配色规则均位于壁纸仓库的 `scripts/generate-profile.mjs`。

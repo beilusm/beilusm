@@ -1,21 +1,40 @@
 {
-  "generatedAt": "2026-11-28T07:41:42.718Z",
-  "banner": "banner-7e220585d0e6e926.svg",
-  "wallpaper": "wallpaper-7e220585d0e6e926.svg",
-  "shareURL": "https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsImJsb29tIiwxNjAwLDY0MCwiIzIzMmIyNyIsIiMxMzE3MTUiLDYsLTU0LDAuNTk1Mjk2NTIxNDEwNjIyMiwxLHRydWUsdHJ1ZSwwLDIwNjY0NTQ0Mjhd",
+  "generatedAt": "2026-11-28T11:14:33.847Z",
+  "banner": "banner-6a287aabc802b636.svg",
+  "bannerLight": "banner-light-6a287aabc802b636.svg",
+  "wallpaper": "wallpaper-6a287aabc802b636.svg",
+  "cards": {
+    "wallpaper": {
+      "dark": "work-wallpaper-dark-6a287aabc802b636.svg",
+      "light": "work-wallpaper-light-6a287aabc802b636.svg"
+    },
+    "riden": {
+      "dark": "work-riden-dark-6a287aabc802b636.svg",
+      "light": "work-riden-light-6a287aabc802b636.svg"
+    },
+    "imagegen": {
+      "dark": "work-imagegen-dark-6a287aabc802b636.svg",
+      "light": "work-imagegen-light-6a287aabc802b636.svg"
+    }
+  },
+  "toolkit": {
+    "dark": "toolkit-dark-6a287aabc802b636.svg",
+    "light": "toolkit-light-6a287aabc802b636.svg"
+  },
+  "shareURL": "https://beilusm.github.io/material-you-wallpaper/#wallpaper=WzEsInBlYmJsZXMiLDE2MDAsNjQwLCIjYzlhNjkwIiwiI2Y2ZWNlNSIsMywtMzUsMC4zNzg2MTM4MTM0NTc2NTA5LDEsdHJ1ZSx0cnVlLDAsMTc5NjE5MDg0MV0",
   "state": {
-    "artMode": "bloom",
+    "artMode": "pebbles",
     "targetW": 1600,
     "targetH": 640,
-    "color1": "#232b27",
-    "color2": "#131715",
-    "bandCount": 6,
-    "angle": -54,
-    "curvature": 0.5952965214106222,
+    "color1": "#c9a690",
+    "color2": "#f6ece5",
+    "bandCount": 3,
+    "angle": -35,
+    "curvature": 0.3786138134576509,
     "harmonics": 1,
     "hasShadow": true,
     "useGradient": true,
     "grain": 0,
-    "seed": 2066454428
+    "seed": 1796190841
   }
 }

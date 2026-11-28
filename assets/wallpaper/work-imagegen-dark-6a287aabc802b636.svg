@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152">
+<title>Relay ImageGen — Session-tracked AI image generation, mask &amp; markup-guided editing, and iterative cover workflows.</title>
+<g font-family="'Google Sans', 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans', Helvetica, Arial, sans-serif">
+  <path d="M10 0H1190A10 10 0 0 1 1200 10V124A28 28 0 0 1 1172 152H28A28 28 0 0 1 0 124V10A10 10 0 0 1 10 0Z" fill="#251e1a"/>
+  <path d="M10 0.75H1190A9.25 9.25 0 0 1 1199.25 10V124A27.25 27.25 0 0 1 1172 151.25H28A27.25 27.25 0 0 1 0.75 124V10A9.25 9.25 0 0 1 10 0.75Z" fill="none" stroke="#57483d" stroke-width="1" stroke-opacity="0.42"/>
+
+  <path d="M114.8 92.07C114.15 93.66,112.05 94.9,110.1 95.69C108.14 96.47,105.04 96.34,103.07 96.77C101.1 97.21,99.32 97.22,98.27 98.27C97.22 99.32,97.21 101.1,96.77 103.07C96.34 105.04,96.47 108.14,95.69 110.1C94.9 112.05,93.66 114.15,92.07 114.8C90.49 115.46,88.13 114.86,86.19 114.03C84.25 113.21,82.15 110.92,80.45 109.83C78.76 108.74,77.48 107.5,76 107.5C74.52 107.5,73.24 108.74,71.55 109.83C69.85 110.92,67.75 113.21,65.81 114.03C63.87 114.86,61.51 115.46,59.93 114.8C58.34 114.15,57.1 112.05,56.31 110.1C55.53 108.14,55.66 105.04,55.23 103.07C54.79 101.1,54.78 99.32,53.73 98.27C52.68 97.22,50.9 97.21,48.93 96.77C46.96 96.34,43.86 96.47,41.9 95.69C39.95 94.9,37.85 93.66,37.2 92.07C36.54 90.49,37.14 88.13,37.97 86.19C38.79 84.25,41.08 82.15,42.17 80.45C43.26 78.76,44.5 77.48,44.5 76C44.5 74.52,43.26 73.24,42.17 71.55C41.08 69.85,38.79 67.75,37.97 65.81C37.14 63.87,36.54 61.51,37.2 59.93C37.85 58.34,39.95 57.1,41.9 56.31C43.86 55.53,46.96 55.66,48.93 55.23C50.9 54.79,52.68 54.78,53.73 53.73C54.78 52.68,54.79 50.9,55.23 48.93C55.66 46.96,55.53 43.86,56.31 41.9C57.1 39.95,58.34 37.85,59.93 37.2C61.51 36.54,63.87 37.14,65.81 37.97C67.75 38.79,69.85 41.08,71.55 42.17C73.24 43.26,74.52 44.5,76 44.5C77.48 44.5,78.76 43.26,80.45 42.17C82.15 41.08,84.25 38.79,86.19 37.97C88.13 37.14,90.49 36.54,92.07 37.2C93.66 37.85,94.9 39.95,95.69 41.9C96.47 43.86,96.34 46.96,96.77 48.93C97.21 50.9,97.22 52.68,98.27 53.73C99.32 54.78,101.1 54.79,103.07 55.23C105.04 55.66,108.14 55.53,110.1 56.31C112.05 57.1,114.15 58.34,114.8 59.93C115.46 61.51,114.86 63.87,114.03 65.81C113.21 67.75,110.92 69.85,109.83 71.55C108.74 73.24,107.5 74.52,107.5 76C107.5 77.48,108.74 78.76,109.83 80.45C110.92 82.15,113.21 84.25,114.03 86.19C114.86 88.13,115.46 90.49,114.8 92.07Z" fill="#5a721d"/>
+  <g fill="none" stroke="#f7fceb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="61" y="63" width="26" height="24" rx="6"/>
+    <path d="M65 82L72 75L78 80L83 74"/>
+    <path d="M88 58Q88.78 60.72 89.56 63.44L95 65Q92.28 65.78 89.56 66.56L88 72Q87.22 69.28 86.44 66.56L81 65Q83.72 64.22 86.44 63.44L88 58Z" fill="#f7fceb" stroke="none"/>
+  </g>
+
+  <text x="144" y="53" font-size="23" font-weight="750" letter-spacing="-0.4" fill="#f0edea">Relay ImageGen</text>
+  <rect x="328" y="32" width="154" height="27" rx="13.5" fill="#723e1a"/>
+  <text x="405" y="49.5" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1.1" fill="#f9e5d7">CLI &amp; AGENT SKILL</text>
+
+  <text x="144" y="84" font-size="16.5" font-weight="500" fill="#c9beb6">Session-tracked AI image generation, mask &amp; markup-guided editing, and iterative cover workflows.</text>
+
+  <rect x="144" y="102" width="72" height="28" rx="14" fill="#413329"/><text x="180" y="120.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c9beb6">Python</text>
+  <rect x="224" y="102" width="95" height="28" rx="14" fill="#413329"/><text x="271.5" y="120.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c9beb6">Agent Skill</text>
+  <rect x="327" y="102" width="152" height="28" rx="14" fill="#413329"/><text x="403" y="120.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c9beb6">Mask &amp; Markup Edit</text>
+  <rect x="487" y="102" width="137" height="28" rx="14" fill="#413329"/><text x="555.5" y="120.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#c9beb6">SVG · GIF · Cover</text>
+
+  <rect x="1024" y="52" width="144" height="48" rx="24" fill="#5a721d"/>
+  <text x="1096" y="81.5" text-anchor="middle" font-size="15.5" font-weight="750" fill="#f7fceb">Explore ↗</text>
+</g>
+</svg>
